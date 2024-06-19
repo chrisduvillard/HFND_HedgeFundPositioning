@@ -1,7 +1,7 @@
 
 # HFND Positioning Analysis
 
-This project aims to analyze the positioning of hedge funds using the HFND ETF, which attempts to replicate major hedge fund styles such as long/short equity, global macro, event-driven, fixed income arbitrage, emerging markets, managed futures, and multi-strategy.
+This project aims to analyze the current positioning of hedge funds using the HFND ETF, which attempts to replicate major hedge fund styles such as long/short equity, global macro, event-driven, fixed income arbitrage, emerging markets, managed futures, and multi-strategy.
 
 ## Features
 - Data cleaning and preprocessing.
