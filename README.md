@@ -1,7 +1,7 @@
 
 # HFND Positioning Analysis
 
-This project aims to analyze the security weightings from a specified ETF's holdings data. The primary goal is to visualize the weightings of various securities in the ETF portfolio using a bar chart with gradient colors. 
+This project aims to analyze the security weightings from a specified ETF's holdings data. 
 
 ## Features
 - Data cleaning and preprocessing.
@@ -55,21 +55,13 @@ The script performs the following steps:
 
 The script will produce an interactive bar chart displaying the security weightings. The chart will look similar to this:
 
-![Example Chart](example_chart.png) *Note: Add a screenshot of the generated chart here.*
-
-## Contributions
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+![Example Chart](example_chart.png) 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - Data source: [Unlimited ETFs](https://www.unlimitedetfs.com/)
 - Libraries: pandas, plotly
-
----
-
-Feel free to customize this README further based on your specific needs and additional details of the project.
